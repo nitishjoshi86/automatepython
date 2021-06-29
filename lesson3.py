@@ -1,0 +1,6 @@
+print('hello how are you, tell my your name... ')
+myname = input()
+print(f'hello {myname}, nice to meet you, can you tell me your age?')
+myage = input()
+print(f'yes certainly, I am {myage} years old and will turn '+str(int(myage)+1) + ' in a year.')
+print('thank you')

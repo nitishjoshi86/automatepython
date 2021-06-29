@@ -1,0 +1,1 @@
+#comparison operators are like ==, !=, <,>, <=, >=, boolean data types are True, False, = is assignment, boolean operators are and, or not.
